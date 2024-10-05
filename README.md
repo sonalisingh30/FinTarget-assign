@@ -20,15 +20,6 @@ You can view the live application here: [FinTarget Live Demo](https://sonali-fin
 
 Access the source code on GitHub: [FinTarget GitHub Repository](https://github.com/sonalisingh30/FinTarget-assign)
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/sonalisingh30/FinTarget-assign.git
-   cd FinTarget-assign
-   
 ## Technologies Used
 
 - **Frontend**: React, Tailwind CSS, Chart.js
